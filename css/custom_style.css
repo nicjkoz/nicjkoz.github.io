@@ -49,9 +49,16 @@ h6 {
 .subtext {
  font-weight: normal;
 }
+.no-top-margin {
+  margin-top: 0;
+}
 p {
  text-align: justify;
  text-justify: inter-word
+}
+.contact-links {
+    line-height: 2.2;
+    margin-top: 15px;
 }
 a {
  color:rgba(87,6,140,1); 
